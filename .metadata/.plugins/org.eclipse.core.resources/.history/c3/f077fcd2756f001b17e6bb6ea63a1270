@@ -1,0 +1,34 @@
+package com.r177219075.q1;
+
+import java.util.*; // For scanner.
+
+public class digPermuations {
+
+	static class solution{
+		
+		public void permutations(Integer[] digs) {
+			for(int i=0; i<digs.length; i++) {				
+				for(int j=0; j<digs.length; j++) {					
+					for(int k=0; k<digs.length; k++) {						
+						System.out.print(digs[i]+digs[j]+digs[k]+", ");
+					}
+				}
+				System.out.println();
+			}
+		}
+	}
+	public static void main(String[] args) {
+		
+		//Fetch 3-digits from user.
+		Integer[] digs = new Integer[3];
+		Scanner input = new Scanner (System.in);
+		System.out.println("Drop three integers.");
+		for(int i=0; i<3; i++)
+			digs[i] = input.nextInt();
+		input.close();
+		
+		//Display permutations.
+		solution sol = new solution();
+		sol.permutations(digs);
+	}
+}

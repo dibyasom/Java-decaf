@@ -1,0 +1,11 @@
+package com.r177219075.q3;
+
+public class whichMonth {
+	static class solution{
+		static String[] months = {
+				"January", "February", "March", "April",
+				"May", "June", "July", "August",
+				"September", "October", "November", "December"
+		};
+	}
+}

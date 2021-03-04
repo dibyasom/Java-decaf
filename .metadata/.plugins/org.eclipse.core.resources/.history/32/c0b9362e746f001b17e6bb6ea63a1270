@@ -1,0 +1,17 @@
+package com.r177219075.q1;
+
+
+public class digPermuations {
+
+	class solution{
+		
+		private void displayPermutations() {
+			
+		}
+	}
+	public static void main(String[] args) {
+		
+		//Fetch 3-digits from user.
+		int dig1, dig2, dig3;
+	}
+}

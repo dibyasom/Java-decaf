@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/divyu/Java-dev/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.1.v20201027-0507" version="15.0.1"/>
+    <libraryInfo home="/home/divyu/Java-dev/bin/jre1.7.0_80" version="1.7.0_80">
+        <bootpath>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/resources.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/rt.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/sunrsasign.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/jsse.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/jce.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/charsets.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/jfr.jar"/>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/divyu/Java-dev/bin/jre1.7.0_80/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/divyu/Java-dev/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.1.v20201027-0507/jre" version="15.0.1"/>
+</libraryInfos>
