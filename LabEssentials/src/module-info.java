@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author divyu
- *
- */
-module myModule {
-}

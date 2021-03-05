@@ -1,2 +1,9 @@
-module lab2 {
+/**
+ * 
+ */
+/**
+ * @author divyu
+ *
+ */
+module myModule {
 }
