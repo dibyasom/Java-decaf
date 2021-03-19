@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author divyu
+ *
+ */
+module myModule {
+}
