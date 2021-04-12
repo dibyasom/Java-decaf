@@ -21,4 +21,5 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/home/divyu/Java-dev/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.1.v20201027-0507/jre" version="15.0.1"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-11.0.10.0.9-4.el8_3.x86_64" version="11.0.10"/>
 </libraryInfos>

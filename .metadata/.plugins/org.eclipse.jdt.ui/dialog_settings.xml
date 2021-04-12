@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.7"/>
-	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jre"/>
+	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="java-11-openjdk-11.0.10.0.9-4.el8_3.x86_64"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
